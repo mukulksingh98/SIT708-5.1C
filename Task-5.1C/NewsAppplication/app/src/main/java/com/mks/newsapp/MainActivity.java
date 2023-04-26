@@ -1,4 +1,4 @@
-package com.tamim.newsapp;
+package com.mks.newsapp;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
