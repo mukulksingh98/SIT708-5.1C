@@ -1,4 +1,4 @@
-package com.tamim.propertyapp;
+package com.mks.propertyapp;
 
 import org.junit.Test;
 
