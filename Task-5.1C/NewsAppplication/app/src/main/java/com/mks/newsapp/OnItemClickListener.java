@@ -1,4 +1,4 @@
-package com.tamim.newsapp;
+package com.mks.newsapp;
 
 import java.util.List;
 
