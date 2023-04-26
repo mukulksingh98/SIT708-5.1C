@@ -1,4 +1,4 @@
-package com.tamim.propertyapp;
+package com.mks.propertyapp;
 
 import java.util.ArrayList;
 import java.util.List;
