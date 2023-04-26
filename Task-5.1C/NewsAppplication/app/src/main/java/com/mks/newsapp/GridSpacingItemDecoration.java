@@ -1,4 +1,4 @@
-package com.tamim.newsapp;
+package com.mks.newsapp;
 
 import android.graphics.Rect;
 import android.view.View;
