@@ -1,4 +1,4 @@
-package com.tamim.newsapp;
+package com.mks.newsapp;
 
 import android.content.Context;
 import android.os.Bundle;
