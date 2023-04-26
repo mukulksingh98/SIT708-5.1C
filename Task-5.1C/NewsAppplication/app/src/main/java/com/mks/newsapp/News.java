@@ -1,4 +1,4 @@
-package com.tamim.newsapp;
+package com.mks.newsapp;
 
 import java.io.Serializable;
 import java.util.ArrayList;
